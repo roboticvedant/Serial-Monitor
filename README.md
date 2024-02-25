@@ -17,7 +17,7 @@ The Serial Monitor is a bespoke tool developed to address the specific need for 
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/serial-monitor.git
+   git clone https://github.com/roboticvedant/Serial-Monitor.git
    ```
 2. Navigate to the project directory and install requirements.
 ### Usage
