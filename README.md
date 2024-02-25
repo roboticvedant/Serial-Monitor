@@ -25,7 +25,7 @@ Run the script with Python:
 ```
 python serial_monitor.py
 ```
-For using the standalone executable, simply double-click the `.exe` file provided in the repository.
+For using the standalone executable, simply download the zip file from this link (Serial Monitor.exe ) [ https://drive.google.com/file/d/1436Ha4pMjsJtLonWgOSbXaI4YGbkh6YN/view?usp=drive_link ]
 
 ## Contributing
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
