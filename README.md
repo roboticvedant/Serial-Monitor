@@ -25,7 +25,7 @@ Run the script with Python:
 ```
 python serial_monitor.py
 ```
-For using the standalone executable, download the zip file from this link.[SerialMonitor.exe](https://drive.google.com/file/d/1aNAYdbWeLc6dWtqv05fSo21O1-e4kbGP/view?usp=drive_link)
+For using the standalone executable, download the zip file from this link.[SerialMonitor.exe](https://drive.google.com/file/d/1DZz67qQ8rUbAy3ItDJ5THmIQliIMbcNf/view?usp=drive_link)
 
 
 ## Contributing
